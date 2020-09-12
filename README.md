@@ -1,4 +1,4 @@
-# Valvano-Tiva-Course-Labs
+# Embedded-Systems-Shape-The-World-Resolved-Labs
 Tiva Stellaris TM4C123GH6PM Course of 2014 
 
 # Derechos de autor:
